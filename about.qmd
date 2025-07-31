@@ -5,3 +5,6 @@ editor: visual
 ---
 
 ## Quarto page
+
+Check out Stats Snack here:
+https://candicekoolhaas.github.io/stats-snack/
