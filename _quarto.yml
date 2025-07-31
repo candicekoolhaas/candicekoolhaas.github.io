@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Candice Koolhaas"
+  navbar:
+    left:
+      - href: /
+        text: Home
+      - href: /about
+        text: About
+      - href: /contact
+        text: Contact
+
+
+
+
+
