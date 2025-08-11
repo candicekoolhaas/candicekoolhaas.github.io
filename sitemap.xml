@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://candicekoolhaas.github.io/index.html</loc>
-    <lastmod>2025-08-11T21:33:27.876Z</lastmod>
-  </url>
-  <url>
-    <loc>https://candicekoolhaas.github.io/about.html</loc>
-    <lastmod>2025-08-11T21:32:58.721Z</lastmod>
+    <loc>https://candicekoolhaas.github.io/projects.html</loc>
+    <lastmod>2025-08-11T22:49:34.404Z</lastmod>
   </url>
   <url>
     <loc>https://candicekoolhaas.github.io/contact.html</loc>
-    <lastmod>2025-07-31T09:27:36.255Z</lastmod>
+    <lastmod>2025-08-11T22:43:20.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://candicekoolhaas.github.io/about.html</loc>
+    <lastmod>2025-08-11T22:49:39.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://candicekoolhaas.github.io/index.html</loc>
+    <lastmod>2025-08-11T22:49:43.376Z</lastmod>
   </url>
 </urlset>
