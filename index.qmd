@@ -1,7 +1,9 @@
 ---
-title: "candicekoolhaas.github.io"
+title: "Other fun stuff"
+format: html
+editor: visual
 ---
 
-## Quarto
+## Other stuff I do!
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Check out Stats Snack [here](https://candicekoolhaas.github.io/stats-snack/)!

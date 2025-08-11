@@ -5,7 +5,7 @@ website:
   title: "Candice Koolhaas"
   navbar:
     left:
-      - href: /
+      - href: /index
         text: Home
       - href: /about
         text: About
