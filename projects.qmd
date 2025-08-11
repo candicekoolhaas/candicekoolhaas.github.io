@@ -1,0 +1,13 @@
+---
+title: "Projects"
+format: html
+editor: visual
+---
+
+![](brainthink.png){fig-alt="Thinking brain" fig-align="left" width="200"}
+
+In the **Shopping Game** study, I am using a gamified paradigm to assess how much memory children use when the choice is up to them. Children will have to select items off of a shelf based on what items are on their shopping list. Sometimes, children have to wait to see the list. I am interested in whether this waiting time will encourage children to use more of their internal memory. Check out the preregistration [here](https://osf.io/txhq6). 
+
+In the **Sticker Machine** study, I am working with [Quinn Pham](https://www.quinnpham.pro/index.html) to investigate whether 5 to 7 year-olds have spontaneous episodic future thinking. In our modified spoon-task, children will have the opportunity to make a spontaneous action in order to achieve a future goal. Check out the preregistration [here](https://osf.io/jauq2). 
+
+​I am currently collecting data on a **new version of the Shopping Game** that will explore whether adults decide to either memorize items on a shopping list or sample from the list to avoid using internal memory. This version will also incorporate pupillometry to assess mental effort during the task. Check out the preregistration [here](https://osf.io/853gf), and check out the Vision Science Society 2025 abstract [here](https://www.visionsciences.org/presentation/?id=2705)!

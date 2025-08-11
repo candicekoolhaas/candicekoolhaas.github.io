@@ -5,10 +5,10 @@ website:
   title: "Candice Koolhaas"
   navbar:
     left:
-      - href: /index
-        text: Home
       - href: /about
         text: About
+      - href: /projects
+        text: Projects
       - href: /contact
         text: Contact
 

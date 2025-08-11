@@ -4,6 +4,18 @@ format: html
 editor: visual
 ---
 
-## Other stuff I do!
+:::: {style="display: flex; align-items: center; gap: 2rem;"}
+<img src="brainguy_excited.png" alt="An excited brain" style="width: 200px; height: auto;"/>
 
-Check out Stats Snack [here](https://candicekoolhaas.github.io/stats-snack/)!
+<div>
+
+</div>
+::::
+
+I host a weekly stats club at my university for graduate students and faculty to talk anything data or stats related! I am passionate about stats education and I think being excited about learning is empowering! Check out **Stats Snack** [here](https://candicekoolhaas.github.io/stats-snack/)!
+
+I also host a weekly in-person meeting with research assistants in my lab where I introduce them to data analysis using R. When I'm on top of things, I post the homeworks and other resources [here](https://github.com/candicekoolhaas/Kool_R_club)!
+
+I am also interested in cognitive improvement - check out my [blog](https://n-ov-one.blogspot.com/)!
+
+Like all scientists, I nerd out about my research topic. Check out my [Youtube channel](https://www.youtube.com/@WorkingMemoryWizard) where I make ridiculous videos summarizing concepts in working memory!

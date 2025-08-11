@@ -4,4 +4,16 @@ format: html
 editor: visual
 ---
 
-## Contact info goes here
+![](brainguy_talking.png){fig-alt="Brain guy" fig-align="right" width="100"}
+
+**Email: candice.koolhaas001\@umb.edu**
+
+[**CV**](https://docs.google.com/document/d/1h32lcymqoQT-aFcl-NG76zh9he3T1F7s72OR6v4qH0M/edit?usp=sharing)
+
+[**Bluesky**](https://bsky.app/profile/ckoolh.bsky.social)
+
+[**LinkedIn**](https://www.linkedin.com/in/candice-koolhaas-5b1b6b244/)
+
+[**ResearchGate**](https://www.researchgate.net/profile/Candice-Koolhaas?ev=hdr_xprf)
+
+[**Github**](https://github.com/candicekoolhaas)
