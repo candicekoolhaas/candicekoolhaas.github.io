@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-991b1886d3c685c7aa2b62b80640c7af.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1d4f84655f446305ac42a8f1abcf7405.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,6 +79,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Candice Koolhaas</span>
     </a>
@@ -139,9 +142,12 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="brainthink.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="Thinking brain" width="200"></p>
 </figure>
 </div>
-<p>In the <strong>Shopping Game</strong>&nbsp;study, I am using a gamified paradigm to assess how much memory children use when the choice is up to them. Children will have to select items off of a shelf based on what items are on their shopping list. Sometimes, children have to wait to see the list. I am interested in whether this waiting time will encourage children to use more of their internal memory. Check out the preregistration&nbsp;<a href="https://osf.io/txhq6">here</a>.&nbsp;</p>
-<p>In the&nbsp;<strong>Sticker Machine</strong>&nbsp;study, I am working with&nbsp;<a href="https://www.quinnpham.pro/index.html">Quinn Pham</a>&nbsp;to investigate whether 5 to 7 year-olds have spontaneous episodic future thinking. In our modified spoon-task, children will have the opportunity to make a spontaneous action in order to achieve a future goal. Check out the preregistration&nbsp;<a href="https://osf.io/jauq2">here</a>.&nbsp;</p>
-<p>​I am currently collecting data on a&nbsp;<strong>new version of the Shopping Game</strong>&nbsp;that will explore whether adults decide to either memorize items on a shopping list or sample from the list to avoid using internal memory. This version will also incorporate pupillometry to assess mental effort during the task. Check out the preregistration&nbsp;<a href="https://osf.io/853gf">here</a>, and check out the Vision Science Society 2025 abstract&nbsp;<a href="https://www.visionsciences.org/presentation/?id=2705">here</a>!</p>
+<p>In the <strong>Shopping Game</strong>&nbsp;study, I am using a gamified paradigm to assess how much memory children use when the choice is up to them. Children will have to select items off of a shelf based on what items are on their shopping list. Sometimes, children have to wait to see the list. I am interested in whether this waiting time will encourage children to use more of their internal memory. Check out the preregistration&nbsp;<a href="https://osf.io/txhq6">here</a>.&nbsp;Currently in review at Developmental Psychology!</p>
+<p>In the&nbsp;<strong>Sticker Machine</strong>&nbsp;study, I am working with&nbsp;<a href="https://www.quinnpham.pro/index.html">Quinn Pham</a>&nbsp;to investigate whether 5 to 7 year-olds have spontaneous episodic future thinking. In our modified spoon-task, children will have the opportunity to make a spontaneous action in order to achieve a future goal. Check out the preregistration&nbsp;<a href="https://osf.io/jauq2">here</a>.&nbsp;Currently collecting data for experiment 2!</p>
+<p>​I am also working on a&nbsp;<strong>new version of the Shopping Game</strong>&nbsp;that will explore whether adults decide to either memorize items on a shopping list or sample from the list to avoid using internal memory. This version will also incorporate pupillometry to assess mental effort during the task. Check out the preregistration&nbsp;<a href="https://osf.io/853gf">here</a>, and check out the Vision Science Society 2025 abstract&nbsp;<a href="https://www.visionsciences.org/presentation/?id=2705">here</a>! Currently planning experiment 2!</p>
+<p>In addition to these projects, I collaborated with my advisors Zsuzsa Kaldy and Erik Blaser on a theoretical chapter to be published in Advances in Child Development and Behavior. Will link to it here when it’s out!<br>
+<br>
+I am also finishing up a series of experiments investigating the effect of proactive interference in 1.5-3.5-year-old toddlers. Check out the preregistration <a href="https://osf.io/wg3ua/overview">here</a>.</p>
 
 
 
@@ -197,13 +203,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
