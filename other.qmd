@@ -1,8 +1,5 @@
 ---
 title: "other"
-format: html
-html:
-  mainfont: "Times New Roman"
 pdf:
   geometry:
     - top=20mm
@@ -12,4 +9,10 @@ pdf:
 editor: visual
 ---
 
+<style>
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
 ## Candice Koolhaas
+</style>
