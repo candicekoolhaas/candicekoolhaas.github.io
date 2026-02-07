@@ -11,6 +11,8 @@ website:
         text: Projects
       - href: /contact
         text: Contact
+      - href: /other
+        text: Other
 
 
 

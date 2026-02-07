@@ -1,0 +1,13 @@
+---
+title: "other"
+format: html
+  mainfont: "Times New Roman"
+  geometry:
+    - top=20mm
+    - left=20mm
+    - right=20mm
+    - bottom=20mm
+editor: visual
+---
+
+## Candice Koolhaas
