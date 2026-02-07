@@ -1,6 +1,6 @@
 ---
 title: "other"
-format:
+format: html
   pdf:
     include-in-header:
       text: |
