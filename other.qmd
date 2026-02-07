@@ -1,19 +1,10 @@
 ---
 title: "other"
 format:
-  html:
-    css: styles.css
-pdf:
-  geometry:
-    - top=20mm
-    - left=20mm
-    - right=20mm
-    - bottom=20mm
-editor: visual
+  pdf:
+    include-in-header:
+      text: |
+        \addtokomafont{disposition}{\rmfamily}
 ---
-
-body {
-  font-family: "Times New Roman", Times, serif;
-}
 
 ## Candice Koolhaas
