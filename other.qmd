@@ -1,7 +1,9 @@
 ---
 title: "other"
-format: html
+format:
+html:
   mainfont: "Times New Roman"
+pdf:
   geometry:
     - top=20mm
     - left=20mm
