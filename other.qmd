@@ -1,6 +1,6 @@
 ---
 title: "other"
-format:
+format: html
 html:
   mainfont: "Times New Roman"
 pdf:
