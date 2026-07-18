@@ -7,9 +7,8 @@ editor: visual
 :::: {style="display: flex; align-items: center; gap: 2rem;"}
 <img src="brainguy_excited.png" alt="An excited brain" style="width: 200px; height: auto;"/>
 
-<div>
-
-</div>
+::: {}
+:::
 ::::
 
 I host a weekly stats club at my university for graduate students and faculty to talk anything data or stats related! I am passionate about stats education and I think being excited about learning is empowering! Check out **Stats Snack** [here](https://candicekoolhaas.github.io/stats-snack/)!

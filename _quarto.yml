@@ -12,7 +12,10 @@ website:
       - href: /contact
         text: Contact
 
-
+format:
+  html:
+    mainfont: "Times New Roman"
+    fontsize: 10pt
 
 
 
