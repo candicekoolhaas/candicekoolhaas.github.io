@@ -14,8 +14,8 @@ website:
 
 format:
   html:
-    theme: slate
-    mainfont: "Comic Sans MS"
+    theme: sketchy
+    mainfont: "Courier New"
     fontsize: 10pt
     css: styles.css
 
