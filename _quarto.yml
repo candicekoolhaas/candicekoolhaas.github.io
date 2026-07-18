@@ -14,9 +14,10 @@ website:
 
 format:
   html:
-    mainfont: "Times New Roman"
+    theme: slate
+    mainfont: "Comic Sans MS"
     fontsize: 10pt
-
+    css: styles.css
 
 
 
