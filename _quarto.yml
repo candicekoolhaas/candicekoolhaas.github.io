@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme: flatly
-    mainfont: "Courier New"
+    mainfont: "Helvetica"
     fontsize: 10pt
     css: styles.css
 
