@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: sketchy
+    theme: flatly
     mainfont: "Courier New"
     fontsize: 10pt
     css: styles.css
