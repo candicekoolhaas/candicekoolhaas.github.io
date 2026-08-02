@@ -18,11 +18,23 @@ a:visited {
 }
 
 /* Hover */
-/*a:hover {
-/*  color: #FF0000 !important;
-/*}
+a:hover {
+  color: #FF0000 !important;
+}
 
 /* Active (while clicking) */
-/*a:active {
-/*  color: #FF6600 !important;
-/*}
+a:active {
+  color: #FF6600 !important;
+}
+
+.navbar a {
+    color: #0000EE !important;
+}
+
+.navbar a:hover {
+    color: red !important;
+}
+
+.navbar-brand {
+    color: #0000EE !important;
+}
