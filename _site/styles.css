@@ -62,7 +62,7 @@ a:active {
 /* ---------- Images ---------- */
 
 img {
-    max-width: 100%;
+    max-width: 300%;
     height: auto;
     position:absolute;
     left:800px;
