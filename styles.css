@@ -61,15 +61,10 @@ a:active {
 
 /* ---------- Images ---------- */
 
-img {
-    max-width: 100%;
-    height: auto;
-    position:absolute;
-    left:800px;
-    top: 200px;
-}
-    
 .profile-photo {
-    width: 300px;
+    width: 200px;   
     height: auto;
-}
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}}
