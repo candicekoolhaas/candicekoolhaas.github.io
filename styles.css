@@ -1,13 +1,15 @@
 /* ---------- General page ---------- */
 
 body {
-    max-width: 1100px;
+    max-width: 500px;
     margin: 0 auto;
     padding: 2rem;
     background: white;
     color: black;
     font-family: "Times New Roman", serif;
     line-height: 1.6;
+    position: absolute;
+    left: 100px;
 }
 
 /* ---------- Paragraphs ---------- */
@@ -62,4 +64,6 @@ a:active {
 img {
     max-width: 100%;
     height: auto;
-}
+    position:absolute;
+    left:800px;
+    top: 200px;
