@@ -1,40 +1,69 @@
-p {
-  text-align: justify;
-}
+/* ---------- General page ---------- */
 
 body {
-  background-color: #FFFFFF;
-  color: black;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: white;
+    color: black;
+    font-family: "Times New Roman", serif;
+    line-height: 1.6;
+    position: absolute;
+    left: 100px;
 }
 
-/* Normal links */
+/* ---------- Paragraphs ---------- */
+
+p {
+    text-align: justify;
+}
+
+/* ---------- Headings ---------- */
+
+h1, h2, h3 {
+    font-weight: normal;
+}
+
+/* ---------- Links ---------- */
+
 a {
-  color: #0000EE !important;
+    color: #0000EE;
+    text-decoration: none;
 }
 
-/* Visited links */
 a:visited {
-  color: #551A8B !important;
+    color: #551A8B;
 }
 
-/* Hover */
 a:hover {
-  color: #FF0000 !important;
+    color: #CC0000;
+    text-decoration: underline;
 }
 
-/* Active (while clicking) */
 a:active {
-  color: #FF6600 !important;
+    color: #FF6600;
+}
+
+/* ---------- Navigation ---------- */
+
+.navbar {
+    display: flex;
+    gap: 2rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ccc;
 }
 
 .navbar a {
-    color: #0000EE !important;
+    color: inherit;
+    font-weight: bold;
 }
 
-.navbar a:hover {
-    color: red !important;
-}
+/* ---------- Images ---------- */
 
-.navbar-brand {
-    color: #0000EE !important;
-}
+img {
+    max-width: 100%;
+    height: auto;
+    position:absolute;
+    left:800px;
+    top: 200px;
