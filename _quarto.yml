@@ -15,8 +15,8 @@ website:
 format:
   html:
     theme: flatly
-    mainfont: "Helvetica"
-    fontsize: 10pt
+    mainfont: "Times New Roman"
+    fontsize: 12pt
     css: styles.css
 
 
