@@ -3,7 +3,26 @@ p {
 }
 
 body {
-  background-color: #white;
+  background-color: #FFFFFF;
   color: black;
-  link-color: #0000EE; 
 }
+
+/* Normal links */
+a {
+  color: #0000EE !important;
+}
+
+/* Visited links */
+a:visited {
+  color: #551A8B !important;
+}
+
+/* Hover */
+/*a:hover {
+/*  color: #FF0000 !important;
+/*}
+
+/* Active (while clicking) */
+/*a:active {
+/*  color: #FF6600 !important;
+/*}
