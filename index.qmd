@@ -3,7 +3,7 @@ title: "Candice Koolhaas"
 ---
 
 :::: {style="display: flex; align-items: center; gap: 2rem;"}
-<img src="website_photo.jpg" alt="Me in Amsterdam!" class="profile-photo"/>
+<img src="website_photo.jpg" alt="Me in Amsterdam!" class="profile-photo" style="width:300px;"/>
 <div>
 
 ```         
