@@ -12,6 +12,6 @@ In the **Sticker Machine** study, I am working with [Quinn Pham](https://www.
 
 ​I am also working on a **new version of the Shopping Game** that will explore whether adults decide to either memorize items on a shopping list or sample from the list to avoid using internal memory. This version will also incorporate pupillometry to assess mental effort during the task. Check out the preregistration [here](https://osf.io/853gf), and check out the Vision Science Society 2025 abstract [here](https://www.visionsciences.org/presentation/?id=2705)! Currently planning experiment 2!
 
-In addition to these projects, I collaborated with my advisors Zsuzsa Kaldy and Erik Blaser on a theoretical chapter to be published in Advances in Child Development and Behavior. Will link to it here when it's out!\
+In addition to these projects, I collaborated with my advisors Zsuzsa Kaldy and Erik Blaser on a theoretical chapter published in Advances in Child Development and Behavior. Check it out [here](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065240726000224?dgcid=author)!\
 \
 I am also finishing up a series of experiments investigating the effect of proactive interference in 1.5-3.5-year-old toddlers. Check out the preregistration [here](https://osf.io/wg3ua/overview).
