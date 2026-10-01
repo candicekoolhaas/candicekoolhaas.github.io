@@ -9,6 +9,8 @@ website:
         text: About
       - href: /projects
         text: Projects
+      - href: /art
+        text: Art
       - href: /contact
         text: Contact
 
